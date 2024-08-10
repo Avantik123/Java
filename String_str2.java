@@ -41,8 +41,7 @@ public class String_str2 {
 
 
    String str="world ";
-   //str=str.trim();
-   str=str.replaceAll("//s", " ");
+   str=str.trim();
    System.out.println("'"+str+"'");
 
 
