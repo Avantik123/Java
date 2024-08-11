@@ -12,6 +12,8 @@ class strshilpimam{
         }
         System.out.println(ch);
 */
+
+        
  //Q2. character count in the string
 
  /*
