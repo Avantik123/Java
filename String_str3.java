@@ -20,6 +20,26 @@ public class String_str3{
       String str = "Hello";
         boolean startsWithHe = str.startsWith("He");
         System.out.println("Does the string start with 'He'? " + startsWithHe);
+*/
+
+        
+        //14. Check if the string "World" ends with "ld".
+/*
+
+      String str="World";
+      boolean endsWithID = str.endsWith("ld");
+      System.out.println("Does the String ends with 'ld' ? " +endsWithID);
+
+*/
+        
+
+      //15.Join the strings "Hello" and "World" with a space in between.
+/*
+      String str="Hello";
+      String str1="World";
+      System.out.println(str.concat(str1));
+
+*/
     }
 
 }
