@@ -17,6 +17,8 @@ public class String_str3{
 */
 
       //13. Check if the string "Hello" starts with "He".
+        
+/*
       String str = "Hello";
         boolean startsWithHe = str.startsWith("He");
         System.out.println("Does the string start with 'He'? " + startsWithHe);
@@ -38,8 +40,8 @@ public class String_str3{
       String str="Hello";
       String str1="World";
       System.out.println(str.concat(str1));
-
 */
+
     }
 
 }
